@@ -2,4 +2,6 @@ body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: deeppink;
+    border: deeppink dashed;
+    border-radius: 20px;
 }
