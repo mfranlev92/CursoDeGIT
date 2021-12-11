@@ -1,7 +1,17 @@
-body{
-    text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    color: deeppink;
-    border: deeppink dashed;
-    border-radius: 20px;
+#main {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
+    sans-serif;
+  color: deeppink;
+  border: deeppink dashed;
+  border-radius: 20px;
+}
+
+#cabecera {
+  margin: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  background: deeppink;
+  color: white;
+  text-align: center;
+  border-radius: 6px;
 }
